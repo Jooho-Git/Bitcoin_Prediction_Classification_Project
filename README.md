@@ -28,9 +28,9 @@ They are not trustworthy because the decision making process is impenetrable.
 To address this inconvenience, we used **explainable deep learning models** in our real-time chart pattern alert service**.  
 
 ### Data   
-- Crawling the market price, high price, low price, and closing price in 5 minute candlestick chart using "pyupbit" package [August 2017 ~ May 2022]  
+- Crawling high, low, market and closing price in 5 minute candlestick chart using "pyupbit" package [August 2017 ~ May 2022]  
 - Transforming price data into candlestick chart images (Model input)   
-- Image data labeling (5 different chart patterns)  
+- Labeling image data into 5 different chart patterns    
 
 ### Model  
 We utilized **Gradcam** to visually interpret the **Conv2d-based model** output.  
