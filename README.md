@@ -3,7 +3,7 @@ Hello! This is the 14th Tobig's Conference Project, **Bigscoin**.
 
 **Bigscoin** provides users with personalized Bitcoin pattern notifications and interpretable prediction services.
 
-To add explanation and reliability to the prediction of deep learning models which are considered black boxes,
+To add explainability and reliability to the prediction of deep learning models which are considered black boxes,
 
 we developed a visualizing system that allows you to see **Bitcoin charts patterns and price predictions** at a glance using XAI techniques.
 
