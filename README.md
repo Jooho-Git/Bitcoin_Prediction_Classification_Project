@@ -23,9 +23,9 @@ Among the chart patterns, five most observed patterns in coin charts are as foll
 
 However, **monitoring chart patterns all day long is time consuming and labor intensive**.  
 In addition, traditional chart pattern detection services are difficult to recognize at a glance.  
-They are not trustworthy because they lack of explanatory power is often missing.  
+They are not trustworthy because the decision making process is impenetrable.  
 
-To address this inconvenience, we used **explainable deep learning models** in our real-time pattern alert service**.  
+To address this inconvenience, we used **explainable deep learning models** in our real-time chart pattern alert service**.  
 
 ### Data   
 - Crawling the market price, high price, low price, and closing price in 5 minute candlestick chart using "pyupbit" package [August 2017 ~ May 2022]  
