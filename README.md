@@ -29,13 +29,13 @@ To address this inconvenience, we used **explainable deep learning models** in o
 
 ### Data   
 - Crawling high, low, market and closing price in 5 minute candlestick chart using "pyupbit" package [August 2017 ~ May 2022]  
-- Transforming price data into candlestick chart images (Model input)   
+- Transforming price data into candlestick chart images as model input   
 - Labeling image data into 5 different chart patterns    
 
 ### Model  
-We utilized **Gradcam** to visually interpret the **Conv2d-based model** output.  
-You can see the **why the model chose to make that prediction** by looking at the Grad-Cam results.
-Users can easily figure out whether the pattern predicted by the model is a significant and trustworthy.
+We utilized **Grad-Cam** to visually interpret the **Conv2d-based model** output.  
+You can see the **why the model chose to make the prediction** by looking at the Grad-Cam results.
+Users can easily figure out whether the pattern classified by the model is a significant and trustworthy.
 
 ### Web 
 <p align="center"><img src="https://user-images.githubusercontent.com/72960666/179319379-4b9be555-b059-49f2-9a0d-884b5e462401.png"></p>
@@ -47,7 +47,7 @@ especially for **triangle patterns** where ups and downs are unpredictable.
 **N-BEATS** which is an explainable time series model can help users establish their strategies.  
 
 ### Data   
-- Crawling the market price, high price, low price, and closing price in 5 minute candlestick chart using "pyupbit" package  
+- Crawling high, low, market and closing price in 5 minute candlestick chart using "pyupbit" package   
 
 ### Model  
 We use **N-BEATS model**, a deep learning architecture that decomposes its forecast into two distinct components, **trend and seasonality**, to provide explanation in the model.
