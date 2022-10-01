@@ -1,0 +1,9 @@
+[submodule "Regression"]
+	path = Regression
+	url = https://github.com/Jooho-Git/Regression.git
+[submodule "Classification"]
+	path = Classification
+	url = https://github.com/Jooho-Git/Classification.git
+[submodule "Webserving"]
+	path = Webserving
+	url = https://github.com/Jooho-Git/Webserving.git
