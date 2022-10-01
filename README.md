@@ -34,8 +34,8 @@ To address this inconvenience, we used **explainable deep learning models** in o
 
 ### Model  
 We utilized **Grad-Cam** to visually interpret the **Conv2d-based model** output.  
-You can see the **why the model chose to make the prediction** by looking at the Grad-Cam results.
-Users can easily figure out whether the pattern classified by the model is a significant and trustworthy.
+You can see the **why the model chose to make the prediction** by looking at the Grad-Cam results.  
+Users can easily figure out whether the pattern classified by the model is a significant and trustworthy.  
 
 ### Web 
 <p align="center"><img src="https://user-images.githubusercontent.com/72960666/179319379-4b9be555-b059-49f2-9a0d-884b5e462401.png"></p>
@@ -50,8 +50,8 @@ especially for **triangle patterns** where ups and downs are unpredictable.
 - Crawling high, low, market and closing price in 5 minute candlestick chart using "pyupbit" package   
 
 ### Model  
-We use **N-BEATS model**, a deep learning architecture that decomposes its forecast into two distinct components, **trend and seasonality**, to provide explanation in the model.
-**Drop-out** is added to the model to visualize confidence interval for population mean of the predictions.
+We use **N-BEATS model**, a deep learning architecture that decomposes its forecast into two distinct components, **trend and seasonality**, to provide explanation in the model.  
+**Drop-out** is added to the model to visualize confidence interval for population mean of the predictions.  
 
 ### Web  
 <p align="center"><img src = "https://user-images.githubusercontent.com/72960666/179319371-873b11e9-87bf-4cd2-88eb-654994356918.png"></p>
