@@ -44,7 +44,7 @@ Users can easily figure out whether the pattern classified by the model is a sig
 ## Regression
 Users who receive pattern notifications start to think about their investment strategies,   
 especially when they get **triangle patterns** where ups and downs are unpredictable.  
-**N-BEATS** which is an explainable time series model can help users establish their strategies.  
+**N-BEATS**, an explainable time series model, can help users establish their strategies in a reliable way.  
 
 ### Data   
 - Crawling high, low, market and closing price in 5 minute candlestick chart using "pyupbit" package   
