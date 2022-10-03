@@ -43,7 +43,7 @@ Users can easily figure out whether the pattern classified by the model is a sig
 
 ## Regression
 Users who receive pattern notifications start to think about their investment strategies,   
-especially for **triangle patterns** where ups and downs are unpredictable.  
+especially when they get **triangle patterns** where ups and downs are unpredictable.  
 **N-BEATS** which is an explainable time series model can help users establish their strategies.  
 
 ### Data   
