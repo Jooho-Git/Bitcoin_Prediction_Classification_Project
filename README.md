@@ -1,5 +1,6 @@
 # 📈 BigsCoin  
-Hello! This is the 14th Tobig's Conference Project, **Bigscoin**.
+Hello! Welcome to the 14th Tobig's Conference.  
+Our project title is **Bigscoin**.
 
 **Bigscoin** provides users with personalized Bitcoin pattern notifications and interpretable prediction services.
 
